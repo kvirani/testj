@@ -2,5 +2,6 @@
 source "https://rubygems.org"
 
 gem 'jekyll', github: 'lighthouse-labs/jekyll', branch: 'polling2'
+gem 'github-pages'
 # gem 'github-pages'
 
